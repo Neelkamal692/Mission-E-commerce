@@ -1,7 +1,5 @@
 # Mission-Baan-Bapat
-1. Team Members :
-    i. Neel Kamal Sahu
-    ii. Akansha
+1. Team Members : Neel Kamal Sahu and Akansha
    
 2. Domain : E-Commerce
 
