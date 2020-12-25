@@ -1,6 +1,13 @@
 # Mission-Baan-Bapat
 ## 1. Team Members : 
-..* Akansha,Jatin Sethi,Khongbantabam Robinchandra, Neelkamal Sahu,Prince Kumar, Samarth, Smiriti and Sitanshu
+1. Akansha
+2. Jatin Sethi
+3. Khongbantabam Robinchandra
+4. Neel kamal Sahu
+5. Prince Kumar
+6. Samarth
+7. Smiriti
+8. Sitanshu
    
 ## 2. Domain : E-Commerce
 
