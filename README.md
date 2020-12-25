@@ -9,7 +9,8 @@
 7. Smiriti
 8. Sitanshu
    
-## 2. Domain : E-Commerce
+## 2. Domain : 
+**E-Commerce**
 
 ## 3. Problem Statement :
 
@@ -17,7 +18,8 @@
 
 ## 5. Data :
 
-## 6. Software : Python
+## 6. Software : 
+**Python**
 
 ## 7. Statistics/OR techniques :
    
