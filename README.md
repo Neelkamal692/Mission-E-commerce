@@ -7,12 +7,12 @@
 5. Prince Kumar
 6. Samarth
 7. Smiriti
-8. Sitanshu
    
 ## 2. Domain : 
 **E-Commerce**
 
 ## 3. Problem Statement :
+**To analyse the performance of recommendation systems when applied on distinctively segmented customer base of an E-commerce company**
 
 ## 4. Reference published work :
 
@@ -22,4 +22,5 @@
 **Python**
 
 ## 7. Statistics/OR techniques :
+**Clustering and Recommendation System**
    
