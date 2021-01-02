@@ -1,12 +1,10 @@
 # Mission-E-commerce 
 ## 1. Team Members : 
-1. Akansha
-2. Jatin Sethi
-3. Khongbantabam Robinchandra
-4. Neel kamal Sahu
-5. Prince Kumar
-6. Samarth
-7. Smiriti
+  * Akansha
+  * Jatin Sethi
+  * Neel kamal Sahu
+  * Prince Kumar
+  * Smiriti
    
 ## 2. Domain : 
 **E-Commerce**
@@ -17,7 +15,7 @@
 
 
 ## 4. Reference published work :
-
+[Clustering-Based Recommender System](https://www.researchgate.net/publication/266475973_Clustering-Based_Recommender_System_Using_Principles_of_Voting_Theory)
 ## 5. Data :
 
 ## 6. Software : 
